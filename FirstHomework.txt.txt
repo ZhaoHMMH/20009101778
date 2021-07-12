@@ -1,0 +1,22 @@
+Github
+用于在更新文件版次等工作中有助于工作简化的工具，它是一个分布式的版本控制系统
+可以通过使用github来进行工作或合作
+git clone
+git add
+git commit -m
+git push
+
+markdown
+用代码形式表达图形等格式
+
+网页模拟arduino运行 
+www.tinkercad.com
+
+Arduino基础函数
+ pinMode（  ，  ）可以将某一引脚设置为输出(OUTPUT)模式或输入(INPUT)模式
+digitalWrite（   ， ）如果该引脚通过pinMode()设置为输出模式（OUTPUT），可以通过digitalWrite()语句将该引脚设置为HIGH或LOW
+digitalRead（  ，  ）读取数字引脚的 HIGH(高电平）或 LOW（低电平）。
+delay（  ）函数可用于暂停程序运行。暂停时间可以由delay()函数的参数进行控制，单位是毫秒
+
+
+
